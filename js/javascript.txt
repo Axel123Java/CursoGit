@@ -1,0 +1,37 @@
+
+
+JAVASCRPT
+
+print("notas")
+
+notas_alumno = int(input("Ingresa una nota: "))
+
+if notas_alumno<=3:
+    print("reprobado")
+elif notas_alumno<=4:
+    print("pasa a examen")
+elif notas_alumno<=5:
+    print("aprobado")
+elif notas_alumno<=7:
+    print("Aprueba sobresaliente")
+else:
+    print("nota incorrecta")
+
+print("fin del programa")
+
+print("notas")
+
+notas_alumno = int(input("Ingresa una nota: "))
+
+if notas_alumno<=3:
+    print("reprobado")
+elif notas_alumno<=4:
+    print("pasa a examen")
+elif notas_alumno<=5:
+    print("aprobado")
+elif notas_alumno<=7:
+    print("Aprueba sobresaliente")
+else:
+    print("nota incorrecta")
+
+print("fin del programa")

@@ -1,5 +1,6 @@
-1.-
-2.-CAMBIO 2
+1.- CAMBIO 1
+
+ESTILOS
 
 print("notas")
 
